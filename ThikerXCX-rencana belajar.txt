@@ -4,3 +4,4 @@ rencana belajar
 - css
 - ci
 - python
+- js
