@@ -1,10 +1,7 @@
 rencana belajar
 - php mvc
-  ok lagi jalan
 - html
 - css
 - ci
 - python
 - js
-  ka ati lah
-   cape aku
