@@ -2,3 +2,5 @@ rencana belajar
 - php mvc
 - html
 - css
+- ci
+- python
